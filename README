@@ -13,6 +13,10 @@ The ColdSpring config assumes a mapping of /net to point to /litepost/cfc/net
 
 Other than that there is no other requirements, all framework files required (the few of them) are located within the app directory.
 
+Resources:
+LitePost:  http://code.google.com/p/litepost/
+ColdSpring:  http://www.coldspringframework.org/
+
 
 
 *** This is free software, use it and abuse it as you like but i'm not responsible for anything you do with it.
